@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = viktoria.von.laer@hotmail.de
+	name = Viktoria von Laer
